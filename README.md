@@ -20,6 +20,9 @@ Dataset yang digunakan adalah Book-Crossing, yaitu kumpulan data buku yang dikum
 2. BX-Users,  yang terdiri dari 278858 baris dan 3 kolom, yaitu 'User-ID', 'Location', 'Age'
 3. BX-Book-Ratings, yang terdiri dari 1149780 baris dan 3 kolom, yaitu  'User-ID', 'ISBN', 'Book-Rating'
 
+Video presentasi dapat diakses pada link berikut : 
+https://www.youtube.com/watch?v=zGQzPRStkoo&t=11s
+
 
 
 
